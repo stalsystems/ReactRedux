@@ -1,1 +1,1 @@
-My projects <3
+React Redux projects
