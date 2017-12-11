@@ -1,0 +1,6 @@
+Redux contains the state of the application or the data that tell our components
+how or what they should render
+represents the views which translates the app's data into something that can be displayed on the screen as something that the user can actually interact with
+
+When we have any other javascript library we alwayas have separated collections of data. Backbone has COLLECTIONS, Flux has different stores, angular ???.
+Redux on the other hand centralizes all of this data into a central single objet which referred to as the state. (Application level state)

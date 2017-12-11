@@ -1,0 +1,4 @@
+Usada para menejar la parte de las distintas urls
+'/' renderiza index
+'/posts' renderiza la lista de posts disponibles
+etc

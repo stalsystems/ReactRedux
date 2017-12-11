@@ -1,0 +1,17 @@
+form a {
+    margin-left: 10px;
+}
+.list-group-item {
+    cursor: pointer;
+    width: 150%
+}
+.list-group-item:hover {
+    background-color: darksalmon;
+}
+.list-group-item:active {
+    background-color: #ffa;
+}
+ul li a{
+    text-decoration: none;
+    color: #000;
+}
