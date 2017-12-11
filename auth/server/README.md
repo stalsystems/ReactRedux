@@ -6,8 +6,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone 
-https://github.com/jvalverdep/auth-server-example.git
-> cd auth-server-example
+https://github.com/jvalverdep/ReactRedux.git
+> cd auth/server
 > npm install
 > npm run dev
 ```
